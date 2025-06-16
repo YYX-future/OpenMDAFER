@@ -18,6 +18,7 @@ This project is not possible without multiple great open-sourced code bases. We 
 - [LA-CMFER](https://github.com/YYX-future/LA-CMFER)
 - [Open-Set Facial Expression Recognition](https://github.com/zyh-uaiaaaa)
 - [CoOp](https://github.com/KaiyangZhou/CoOp?utm_source=catalyzex.com)
+- [NENO](https://github.com/silvia1993/HyMOS?utm_source=catalyzex.com)
 
 ## Contact
 If you have any questions or suggestions, feel free to email [Yuxiang Yang](yangyuxiang3@stu.scu.edu.cn).
